@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dncoiqic9
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning React
+- 📫 dncoiqic9@connect.hku.hk
